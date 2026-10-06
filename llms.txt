@@ -1,0 +1,17 @@
+# 3D Pictures with Glasses
+
+> An online anaglyph art gallery for viewing with red/cyan 3D glasses, also commonly called red/blue glasses.
+
+## Gallery
+- [Home](https://3dpictureswithglasses.com/): Anaglyph images and viewing information.
+- [Flowers](https://3dpictureswithglasses.com/#flowers): Floral anaglyph artwork.
+- [Animals](https://3dpictureswithglasses.com/#animals): Animal anaglyph artwork.
+- [Places](https://3dpictureswithglasses.com/#places): Scenes and places.
+- [Portraits](https://3dpictureswithglasses.com/#portraits): Portrait artwork.
+- [Fantasy](https://3dpictureswithglasses.com/#fantasy): Fantasy anaglyph artwork.
+
+## Information
+- [How the artwork is made](https://3dpictureswithglasses.com/#making)
+- [Viewing guidance](https://3dpictureswithglasses.com/#viewing)
+- [Timeless Romance book](https://3dpictureswithglasses.com/#book)
+- [Privacy and analytics](https://3dpictureswithglasses.com/privacy.html)
